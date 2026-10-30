@@ -1,0 +1,28 @@
+{
+  "project": "TalantaTix Kenya",
+  "source_file": "talantatix-index (1).html",
+  "source_type": "single saved HTML page",
+  "page_title": "TalantaTix Kenya — Football Tickets · Talanta Stadium",
+  "description": "Buy football tickets for matches at Talanta Stadium, Nairobi. Regular, VIP and VVIP categories with secure M-Pesa checkout, digital QR tickets and instant confirmation. Your Ticket. Your Stadium. Your Moment.",
+  "author": "TalantaTix Kenya",
+  "keywords": [
+    "football tickets Kenya",
+    "Talanta Stadium tickets",
+    "Harambee Stars tickets",
+    "M-Pesa ticketing",
+    "match tickets Nairobi",
+    "TalantaTix"
+  ],
+  "theme_color": "#0b7a3b",
+  "scripts": [
+    {
+      "file": "script.js",
+      "type": "inline JavaScript extracted from the supplied HTML"
+    }
+  ],
+  "notes": [
+    "The supplied file contains one inline JavaScript block, extracted to script.js.",
+    "No standalone JSON data file, JSON-LD block, or embedded Next.js page-data export was present in the supplied HTML.",
+    "This JSON contains extracted page metadata only; it is not a backend/database configuration or payment credentials export."
+  ]
+}
